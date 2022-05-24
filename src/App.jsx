@@ -1,11 +1,10 @@
-
+import Home from "./pages/home/index.jsx";
 function App() {
-
   return (
     <div className="App">
-1111111
+      <Home />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
